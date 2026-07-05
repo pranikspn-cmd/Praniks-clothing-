@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PRANIKS | The Standard Men's Collections</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+    <div class="logo">PRANIKS</div>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#collection">Collection</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<section class="hero" id="home">
+    <div class="overlay"></div>
+
+    <div class="hero-text">
+        <h1>THE STANDARD MEN'S COLLECTIONS</h1>
+
+        <p>
+        Premium Shirts • T-Shirts • Jeans • Trousers
+        </p>
+
+        <a href="https://wa.me/917019876224" class="btn whatsapp">
+            Order on WhatsApp
+        </a>
+
+        <a href="tel:+917019876224" class="btn call">
+            Call Now
+        </a>
+
+    </div>
+
+</section>
+
+<section id="collection">
+
+<h2 class="title">Latest Collection</h2>
+
+<div class="products">
+
+<div class="card">
+<img src="shirt1.jpg" alt="">
+<h3>Premium Shirt</h3>
+<p>Sizes M, L, XL & XXL</p>
+</div>
+
+<div class="card">
+<img src="shirt2.jpg" alt="">
+<h3>Casual Shirt</h3>
+<p>Comfort Fit</p>
+</div>
+
+<div class="card">
+<img src="shirt3.jpg" alt="">
+<h3>Printed Shirt</h3>
+<p>New Arrival</p>
+</div>
+
+<div class="card">
+<img src="shirt4.jpg" alt="">
+<h3>Party Wear Shirt</h3>
+<p>Premium Quality</p>
+</div>
+
+<div class="card">
+<img src="tshirt.jpg" alt="">
+<h3>Premium T-Shirt</h3>
+<p>100% Cotton</p>
+</div>
+
+<div class="card">
+<img src="jeans.jpg" alt="">
+<h3>Denim Jeans</h3>
+<p>Latest Collection</p>
+</div>
+
+</div>
+
+</section>
+
+<section id="about">
+
+<h2 class="title">About PRANIKS</h2>
+
+<p style="text-align:center;max-width:900px;margin:auto;font-size:18px;line-height:1.8;">
+
+PRANIKS – The Standard Men's Collections brings premium fashion with the latest styles, superior quality, and affordable prices. We offer stylish shirts, T-shirts, jeans, and more to help every man look confident and fashionable.
+
+</p>
+
+</section>
+
+<section id="contact">
+
+<h2 class="title">Visit Our Store</h2>
+
+<div class="contact-box">
+
+<h3>PRANIKS</h3>
+
+<p>The Standard Men's Collections</p>
+
+<p>
+ATHARVA PADMA KUSHA<br>
+Near Marigudi Temple<br>
+Urwa, Mangalore - 575006
+</p>
+
+<p>📞 +91 7019876224</p>
+
+<a href="https://wa.me/917019876224" class="btn whatsapp">
+WhatsApp Us
+</a>
+
+</div>
+
+</section>
+
+<footer>
+
+<h2>PRANIKS</h2>
+
+<p>The Standard Men's Collections</p>
+
+<p>© 2026 All Rights Reserved.</p>
+
+</footer>
+
+</body>
+</html>
